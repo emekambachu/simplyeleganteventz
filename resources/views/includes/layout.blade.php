@@ -6,6 +6,9 @@
 
     <title>@yield('title') | Simply Elegant Event & Apparel</title>
 
+    <meta name="description" content="Simply Elegant Events and Apparels, Event management and catering company in Abuja"/>
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+
     <!-- Stylesheets -->
     <link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
